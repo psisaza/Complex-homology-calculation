@@ -1,2 +1,0 @@
-This program is used in the article 'The Topology of the Milnor Fiber of the Quasi-Ordinary Singularities with a single Characteristic Pair'.
-The program is used in section eight to calculate the complex homology of the Milnor fiber.
